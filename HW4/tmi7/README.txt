@@ -1,1 +1,0 @@
-The tmi7_assignment4 folder can be loaded into Eclipse as a project. After use Maven to update the project, both the HardGridWorldLauncher.java and EasyGridWorldLauncher.java can be ran directly in Eclipse.
